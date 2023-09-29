@@ -1,0 +1,11 @@
+<application>
+  <component name="github-copilot">
+    <languageAllowList>
+      <map>
+        <entry key="*" value="false" />
+        <entry key="Python" value="true" />
+        <entry key="YAML" value="true" />
+      </map>
+    </languageAllowList>
+  </component>
+</application>
