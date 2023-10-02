@@ -24,4 +24,4 @@ Pi.createPayment({
   onReadyForServerCompletion: function(paymentId, txid) { /* ... */ },
   onCancel: function(paymentId) { /* ... */ },
   onError: function(error, payment) { /* ... */ },
-});
+onReadyForServerApproval
